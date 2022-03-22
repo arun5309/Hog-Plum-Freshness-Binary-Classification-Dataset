@@ -1,8 +1,11 @@
 # Hog Plum Freshness Binary Classification Dataset
 
 The dataset has been prepared in the 
+
 Laboratory of Department of Food Processing Technology, Malda Polytechnic, 
+
 Malda 732102, West Bengal, India 
+
 By Dr.Tanmay Sarkar, Lecturer in Food Processing Technology
 
 # Paper
@@ -10,6 +13,7 @@ By Dr.Tanmay Sarkar, Lecturer in Food Processing Technology
 Classification work on the datset was performed by researchers from
 
 University of Petroleum and Energy Studies (UPES), 
+
 Dehradun 248007, Uttarkhand, India
 
 **TODO:** Insert paper link
